@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola Mundo de Git! Probando git status -s
+=======
+Hola Mundo de Git, probando pull request
+>>>>>>> c7602c0a326c46bd0d5c3d4f72d8c795ca0c2ce8
